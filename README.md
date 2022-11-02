@@ -3,5 +3,5 @@
  
  A shitty bot I'm trying to make from copypasted code from the internet
  
- music doesn't work for some reason
+ music function doesn't work for some reason
  
